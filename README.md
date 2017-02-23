@@ -2,6 +2,7 @@
 
 # Core Features: 
 Basic player movement; jumping, crouching?, walking? with sounds
+
 Static/path based AI. We could make a cone visible to the player indicating where different AI can see
 
 # Potential Features we really really want
