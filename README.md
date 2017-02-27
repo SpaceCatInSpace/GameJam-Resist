@@ -1,28 +1,26 @@
 # GameJam-Resist
 
+Developers: 
+    Emily (Emz), 
+    Jon (PrinsesseJ), 
+    Jack (SpaceCatInSpace)
 # Core Features: 
-Basic player movement; jumping, crouching?, walking? with sounds
 
-When caught instant gameover? No violence or anything was the plan
-    When things like security cameras spot the player do we spawn NPCS? Or Instant gameover too? Need to discuss
-    May not have time for decent AI
-
-Static/path based AI. We could make a cone visible to the player indicating where different AI can see
-
-A half decent 'Quarry' Tileset for the starting area.
-If we plan to continue this after the gamejam I think we should do what we can and have it polished for continueing. 
-Not worrying about finishing it completely for the deadline?
-
-Quarry map will have to have alot of verticality, lots of climbing and what not as we are limited where our player can actually go anyway
+    - Stealth-Pacifism
+    - Rudimentary player movement such as walking, running, jumping etc.
+    - When the player is caught they will be imprisoned, level restarts
+    - Security cameras are important symbolically and in game mechanics as they will detect "suspicious" behaviour and alert guards who will attempt to find you. (Although the AI guards may not be amazing due to time contraints)
+    - Patrolling guards will attempt to seek out suspicious activist behaviour and destroy it
+    - 'Quarry' Tileset sourced for the starting area.
 
 # Potential Features we really really want
-'Blend' feature that allows the player to go undetected while in crowds/Darks areas. The player could slightly fade out to indicate
-when blended in. //This could be done with an invisible box covering areas we dont want to be detected by.
 
-Physiscs system. Push boxes to jump on and what not
+    - Environment blending, the player appears to conform or hide from guards, lower opacity or something to indicate this allowing for some extra stealthy ability!
+    - Interactive world! Boxes that can be moved around, perhaps things dropping from above?!
+    - Fellow activists fear not! We will hopefully release you so you can go annoy the guards as we slip through unseen.
+    - A little GUI counter system to display the amount of support our actions have gained! If it is too negative, game over - you probably aren't cut out for progressive and peaceful activism. (Perhaps witnessed acts of violence/destruction could cause the counter to lower?!)
+    - Maps to not be confined and to be somewhat vertical, perhaps include some secret little bits-n'-bobs?
 
-That holding cell idea. Release prisoners for extra support.
+The game may continue being developed even though it was initially planned for a quick Game-jam (Projects are fun and cool!)
 
-Have a counter showing how many supporters we have? Could have different endings depending on how much supporters we have.
-
-// to be updated
+// To be updated!
