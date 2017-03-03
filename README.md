@@ -13,6 +13,24 @@ Developers:
     - Patrolling guards will attempt to seek out suspicious activist behaviour and destroy it
     - 'Quarry' Tileset sourced for the starting area.
 
+
+# To-Do
+ - Finish 'tutorial section' and the rest of the first area for the game jam
+ 
+ -Finish the guard/camera script
+        -The camera script must instantiate a guard somewhere (From a guard post) when the player is spotted as suspicious or whatever
+        
+ -A script to detect if the player can be seen by the guard or not (If player is inside this collider they cannot be detected)
+ 
+ -When the player is near an NPC a pop up must appear and we get an option to interact. This will either be to talk to them for tutorial
+  purposes or to shout something to ralley them against the oppressors. Doing this should also alert nearbye guards 
+
+-Create a 'talk bubble' and a different bubble for 'rallying' people.
+
+
+
+
+
 # Potential Features we really really want
 
     - Environment blending, the player appears to conform or hide from guards, lower opacity or something to indicate this allowing for some extra stealthy ability!
