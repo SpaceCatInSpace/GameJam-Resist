@@ -15,10 +15,7 @@ Developers:
 
 
 # To-Do
- - Finish 'tutorial section' and the rest of the first area for the game jam
- 
- -Finish the guard/camera script
-        -The camera script must instantiate a guard somewhere (From a guard post) when the player is spotted as suspicious or whatever
+ -Finish the guard/camera script, Guards must obviously collide with the ground and such, When they have lost sight of the player for awhile (Say 10 seconds) They return to they're post and disapear (Can just make this a gameobject)
         
  -A script to detect if the player can be seen by the guard or not (If player is inside this collider they cannot be detected)
  
